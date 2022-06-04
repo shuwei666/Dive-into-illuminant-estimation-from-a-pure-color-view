@@ -1,2 +1,2 @@
-# CIC2022 Beyond Pure Color Constancy
+# CIC2022 Dive into illuminant estimation from a pure color view
 > will release soon...
